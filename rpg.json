@@ -1,0 +1,52 @@
+{
+  "201036806230@s.whatsapp.net": {
+    "level": 1,
+    "xp": 10,
+    "hp": 100,
+    "maxHp": 100,
+    "energy": 42,
+    "maxEnergy": 50,
+    "lastEnergyTs": 1791917661517,
+    "animal": null,
+    "inventory": {
+      "سمك": 3
+    },
+    "equipped": {
+      "weapon": null,
+      "armor": null
+    },
+    "stats": {
+      "wins": 0,
+      "losses": 0,
+      "questsDone": 0
+    },
+    "quest": null,
+    "lastClaims": {
+      "صيد": 1791917661555
+    }
+  },
+  "80797495205922@s.whatsapp.net": {
+    "level": 1,
+    "xp": 0,
+    "hp": 78,
+    "maxHp": 100,
+    "energy": 35,
+    "maxEnergy": 50,
+    "lastEnergyTs": 1791925733325,
+    "animal": null,
+    "inventory": {},
+    "equipped": {
+      "weapon": null,
+      "armor": null
+    },
+    "stats": {
+      "wins": 0,
+      "losses": 0,
+      "questsDone": 0
+    },
+    "quest": null,
+    "lastClaims": {
+      "adventure": 1791925733339
+    }
+  }
+}

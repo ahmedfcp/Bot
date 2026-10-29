@@ -1,0 +1,5 @@
+[
+  { "title": "Attack on Titan", "year": 2013, "episodes": 89, "seasons": 4, "desc": "صراع البشرية ضد العمالقة.", "genres": ["أكشن", "شونين", "غموض", "دراما"] },
+  { "title": "High School DxD", "year": 2012, "episodes": 48, "seasons": 4, "desc": "شاب ينضم لنادي غامض.", "genres": ["إيتشي", "حريم", "أكشن", "قوى خارقة"] },
+  { "title": "Naruto", "year": 2002, "episodes": 220, "seasons": 5, "desc": "نينجا يسعى ليصبح هوكاغي.", "genres": ["شونين", "أكشن", "مغامرات"] }
+]
